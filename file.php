@@ -1,4 +1,3 @@
-﻿$假PNG头 = "\x89PNG\r\n\x1a\n";$假PNG头 = "\x89PNG\r\n\x1a\n";
 ﻿<?php
 ?>
 GIF89a
@@ -1006,4 +1005,5 @@ function formatBytes($bytes, $precision = 2) {
         });
     </script>
 </body>
+
 </html>
